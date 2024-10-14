@@ -1,5 +1,9 @@
 # Django Project
 
+github link: https://github.com/EduardoAFdeZanetti/finalproject
+
+render link: https://finalproject-zs7d.onrender.com
+
 ## Project Description
 
 This is a Django project. Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.
